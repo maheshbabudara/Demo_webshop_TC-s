@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4cb26194-46eb-433f-8da7-8818809bcac6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Demo_Testcases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/lib2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Advance_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Books_Add_to_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Buy_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Email_freind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/Query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/change_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/filter_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/product_review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/product_wishlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/search_compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/shoppingcart_conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POM/zepto_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_Address_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_Buy_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_Product_Review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_add_Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_advance_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_cartcondition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_change_password.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_compare_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_filter_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_frnd_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_product_wishlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_query.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/Excelreader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Utilities/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/conftest_zepto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/test_practise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/test_zepto_Addtocart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests_practise/test_zepto_login.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lbJSZ0A4lSyFVv4mp3Kwg6hWLg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_Address_User.test_Address_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Buy_product.test_Buy_product.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Product_Review.test_pro_review.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_add_Book.test_Add_Book.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_advance_search.test_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_change_password.test_change_password.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_compare_search.test_compare.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_filter_condition.test_filter_condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_frnd_email.test_frnd_email.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_practise.test_datadriven.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_query.test_query.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_zepto_Addtocart.test_zepto_cart.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_zepto_login.test_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Excelreader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Python_Selenium\Selenium\Demo_Testcases\tests_practise" />
+      <recent name="C:\Python_Selenium\Selenium\Demo_Testcases" />
+      <recent name="C:\Python_Selenium\Selenium\Demo_Testcases\Lib" />
+      <recent name="C:\Python_Selenium\Selenium\Demo_Testcases\POM" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_Product_Review.test_pro_review">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Product_Review.test_pro_review" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Product_Review.test_pro_review&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_practise.test_datadriven" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_practise.test_datadriven&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_query.test_query" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_query.test_query&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_zepto_Addtocart.test_zepto_cart" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_zepto_Addtocart.test_zepto_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_zepto_login.test_login" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Demo_Testcases" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests_practise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_zepto_login.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Product_Review.test_pro_review" />
+        <item itemvalue="Python tests.Python tests for test_zepto_login.test_login" />
+        <item itemvalue="Python tests.Python tests for test_zepto_Addtocart.test_zepto_cart" />
+        <item itemvalue="Python tests.Python tests for test_query.test_query" />
+        <item itemvalue="Python tests.Python tests for test_practise.test_datadriven" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-48aec45f0201-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cb26194-46eb-433f-8da7-8818809bcac6" name="Changes" comment="" />
+      <created>1725442842492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725442842492</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tests/conftest.py</url>
+          <line>227</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
